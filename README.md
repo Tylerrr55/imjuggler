@@ -1,2 +1,3 @@
 # imjuggler
-test
+テスト
+ミリオンゴッド
